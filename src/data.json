@@ -1,0 +1,46 @@
+[
+  {
+    "status": "solved",
+    "subject": "No puedo ingresar a mi cuenta",
+    "body": "Hola necesito ayuda para recuperar la contraseña de mi cuenta, ¿me pueden ayudar?",
+    "priority": "high",
+    "csat": 100,
+    "tags": ["account", "reset_password"],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 30
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "status": "solved",
+    "subject": "No puedo ingresar a mi cuenta",
+    "body": "Hola necesito ayuda para recuperar la contraseña de mi cuenta, ¿me pueden ayudar?",
+    "priority": "high",
+    "csat": 100,
+    "tags": ["account", "reset_password"],
+    "metrics": [
+      {
+        "id": "first_resolution_time_in_minutes",
+        "value": 30
+      },
+      {
+        "id": "first_reply_time_in_minutes",
+        "value": 10
+      },
+      {
+        "id": "full_resolution_time_in_minutes",
+        "value": 200
+      }
+    ]
+  }
+]
